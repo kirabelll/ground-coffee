@@ -272,7 +272,7 @@ export default function Home() {
       {/* NAVIGATION */}
       <nav className="fixed top-0 w-full px-6 py-4 md:px-12 md:py-8 flex justify-between items-center z-50 mix-blend-difference text-white">
         <a href="#hero" className="flex items-center">
-          <span className="font-[var(--font-space-grotesk)] text-lg md:text-xl font-medium tracking-tighter uppercase hover:text-[#C0A080] transition-colors">GROUNDPOLY</span>
+          <span className="font-[var(--font-space-grotesk)] text-lg md:text-xl font-medium tracking-tighter uppercase hover:text-[#C0A080] transition-colors">GROUNDCOFFEE</span>
         </a>
         <div className="hidden md:flex gap-8 text-xs font-normal tracking-widest uppercase opacity-80 items-center">
           <a href="#intro" className="hover:text-[#C0A080] transition-colors">{t.nav.vision}</a>
@@ -343,7 +343,7 @@ export default function Home() {
             </div>
             <div className="overflow-hidden self-end flex items-end gap-4">
               <h1 id="hero-title-r" className="text-[16vw] md:text-[14vw] font-[var(--font-space-grotesk)] leading-[0.85] tracking-tighter mix-blend-difference text-[#C0A080] font-light italic translate-y-full block">
-                POLY
+               COFFEE
               </h1>
             </div>
           </div>
