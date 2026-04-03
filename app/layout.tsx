@@ -16,8 +16,8 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "GROUNDPOLY | 혁신 소재 솔루션",
-  description: "매일 버려지는 커피 찌꺼기의 놀라운 변신",
+  title: "GROUND COFFEE ",
+  description: "GROUND COFFEE AND PASTRY",
 };
 
 export default function RootLayout({
